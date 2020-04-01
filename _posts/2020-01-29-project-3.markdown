@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2020-01-10
+img: Project2.png
+alt: image-alt
+project-date: January 2020
+category: Dynamic Editor
+description:  A chart Editor called FusionSlate for rendering Fusioncharts with csv data, editing chart json or editing cosmetics of fusioncharts on simple Clicks<a href="http://static.fusioncharts.com/samples/poc/slate/#!">visit Project</a>.
+
+---

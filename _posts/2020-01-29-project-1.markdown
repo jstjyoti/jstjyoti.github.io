@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2020-03-28
+img: background.png
+alt: image-alt
+project-date: March 2020
+category: Web Portal
+description: This is a project Build by Jyoti along with Mr. Md Asshadulislam for helping needy people with ration by bringing donor nearby to a person who needs ration/money. The application has authencity check of volunteer/person adding details and people donating. Currently till April 02, 2020 we have catered 200+ families of total 800+ person <a href="https://covid-help-2020.herokuapp.com/">visit Project</a>.
+
+---
