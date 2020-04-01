@@ -1,13 +1,13 @@
 # Site settings
-title: Ankita Prakash
-email: ankita.prakash1998@gmail.com
-url: https://Anpr1211.github.io
+title: Jyoti Mishra
+email:  09mishra.jyoti@gmail.com
+url: https://jstjyoti.github.io
 plugins:
   - jekyll-sitemap
-description: "Portfolio of Ankita Prakash"
+description: "Portfolio of Jyoti Mishra"
 keywords: "Portfolio, Resume"
-skills: "Data Scientist - Analyst - Statistician"
-meta_author: Ankita Prakash
+skills: "Coder, Developer, Problem Solver"
+meta_author: Jyoti Mishra
 
 # Google webmaster tools
 google_verify:
@@ -27,10 +27,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 80B3FF
+  primary-rgb: "128,179,255"
+  secondary: FD6E8A
+  secondary-dark: A2122F
 
 # Footer settings
 footer:
@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/anpr1211
+    url: https://twitter.com/Jyoti_Mi
   - title: linkedin
-    url: https://www.linkedin.com/in/anpr1211
+    url: https://www.linkedin.com/in/jyoti-mishra-56a25415b/
   - title: github
-    url: http://github.com/Anpr1211
+    url: http://github.com/jstjyoti
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Kolkata, India
+  - line: 32/H Kundan Bye Lane, Liluah, Howrah, West Bengal - 711204, India
 
 # Build settings
 markdown: kramdown
