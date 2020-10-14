@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2020-08-30
+img: cabin.png
+alt: image-alt
+project-date: March-April 2020 
+category: React Application
+description: It is an application that shows theme based images in terms of gallery that you can like, share or Contacr the photographer.
+ Visit my github profile and see Gallery
+
+---
