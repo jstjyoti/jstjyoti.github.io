@@ -43,6 +43,34 @@ export const skillsSection = {
 
 	softwareSkills: [
 		{
+			skillName: "aws",
+			fontAwesomeClassname: "logos:aws",
+		},
+		{
+			skillName: "jenkins",
+			fontAwesomeClassname: "logos:jenkins",
+		},
+		{
+			skillName: "docker",
+			fontAwesomeClassname: "logos:docker-icon",
+		},
+		{
+			skillName: "python",
+			fontAwesomeClassname: "logos:python",
+		},
+		{
+			skillName: "git",
+			fontAwesomeClassname: "logos:git-icon",
+		},
+		{
+			skillName: "bazel",
+			fontAwesomeClassname: "logos:bazel",
+		},
+		{
+			skillName: "groovy",
+			fontAwesomeClassname: "logos:groovy",
+		},
+		{
 			skillName: "html-5",
 			fontAwesomeClassname: "vscode-icons:file-type-html",
 		},
@@ -74,7 +102,6 @@ export const skillsSection = {
 			skillName: "Angular",
 			fontAwesomeClassname: "logos:angular",
 		},
-
 		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
@@ -82,26 +109,6 @@ export const skillsSection = {
 		{
 			skillName: "mongoDB",
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
-		},
-		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
-		{
-			skillName: "firebase",
-			fontAwesomeClassname: "logos:firebase",
-		},
-		{
-			skillName: "python",
-			fontAwesomeClassname: "logos:python",
-		},
-		{
-			skillName: "git",
-			fontAwesomeClassname: "logos:git-icon",
-		},
-		{
-			skillName: "docker",
-			fontAwesomeClassname: "logos:docker-icon",
 		},
 	],
 };

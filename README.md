@@ -5,7 +5,7 @@
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
-### To view a live example, **[click here](https://jstjyoti.github.io/)**.
+### To view a live example, **[click here](https://jstjyoti-github-io.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
@@ -61,10 +61,6 @@ $ yarn
 #Start's development server
 $ yarn dev
 ```
-
-#### Using Emojis
-
-For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.
 
 ## Technologies Used
 

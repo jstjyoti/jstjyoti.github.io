@@ -10,5 +10,4 @@ module.exports = {
 		  "/": { page: "/" },
 		}
 	},
-	assetPrefix: !debug ? 'https://jstjyoti.github.io/' : '',
 };
