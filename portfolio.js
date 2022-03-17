@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Jyoti Mishra",
 	title: "Hi all, I'm Jyoti",
 	description:
-		"A passionate DevOps Engineer. Full Stack Web Developer and Front-end Web Development Student Mentor having an experience of Infrastructure management, CI/CD initation, package and release tooling and building Web applications with JavaScript / Reactjs / Nodejs / Angular like libraries and frameworks.",
+		"A passionate DevOps Engineer. Full Stack Web Developer and Front-end Web Development Student Mentor having an experience of Infrastructure management, CI/CD initiation & automation, package and release tooling and building Web applications with JavaScript / Reactjs / Nodejs / Angular like libraries and frameworks.",
 	// ToDo Add resumeLink
 		// resumeLink: "", 
 };
