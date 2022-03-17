@@ -13,7 +13,7 @@
 		"export": "next export",
 		"lint": "next lint",
     	"predeploy": "next build",
-    	"deploy": "gh-pages -d build"
+    	"deploy": "gh-pages -d out"
 	},
 	"dependencies": {
 		"@apollo/client": "^3.3.21",
