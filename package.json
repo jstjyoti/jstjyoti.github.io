@@ -4,6 +4,7 @@
 	"description": "Jyoti Mishra's portfolio",
 	"main": "index.js",
 	"repository": "https://github.com/jstjyoti/jstjyoti.github.io.git",
+	"homepage": "https://jstjyoti-github-io.vercel.app/",
 	"author": "Jyoti Mishra",
 	"license": "MIT",
 	"scripts": {
