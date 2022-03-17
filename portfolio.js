@@ -110,7 +110,7 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "DevOps and AWS",
-		progressPercentage: "90",
+		progressPercentage: "80",
 	},
 	{
 		Stack: "Front End Development",
@@ -121,8 +121,8 @@ export const SkillBars = [
 		progressPercentage: "70",
 	},
 	{
-		Stack: "Programming",
-		progressPercentage: "60",
+		Stack: "DSA and Programming",
+		progressPercentage: "70",
 	},
 ];
 
@@ -130,7 +130,7 @@ export const educationInfo = [
 	{
 		schoolName: "West Bengal University of Technology",
 		subHeader: "Bachelor of Technology in Computer Science",
-		duration: "September 2017 - April 2019",
+		duration: "July 2015- June 2019",
 		desc: "Managed Technical Coding Club and cleared finals of National Level Hackathon",
 		descBullets: [
 			"Worked as Stream Co-ordinator of Coding Club and Techfest Coding Club that increased participation by 60% from non Computer Science streams",
