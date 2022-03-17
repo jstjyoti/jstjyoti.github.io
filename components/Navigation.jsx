@@ -84,20 +84,6 @@ const Navigation = () => {
 								<NavItem>
 									<NavLink
 										rel="noopener"
-										aria-label="Facebook"
-										className="nav-link-icon"
-										href={socialLinks.facebook}
-										target="_blank"
-									>
-										<i className="fa fa-facebook-square" />
-										<span className="nav-link-inner--text d-lg-none ml-2">
-											Facebook
-										</span>
-									</NavLink>
-								</NavItem>
-								<NavItem>
-									<NavLink
-										rel="noopener"
 										aria-label="Instagram"
 										className="nav-link-icon"
 										href={socialLinks.instagram}

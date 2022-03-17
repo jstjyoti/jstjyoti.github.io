@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Jyoti Mishra",
 	title: "Hi all, I'm Jyoti",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Django / Flask and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+		"A passionate DevOps Engineer. Full Stack Web Developer and Front-end Web Development Student Mentor having an experience of Infrastructure management, CI/CD initation, package and release tooling and building Web applications with JavaScript / Reactjs / Nodejs / Angular like libraries and frameworks.",
 	// ToDo Add resumeLink
 		// resumeLink: "", 
 };
@@ -16,6 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
+	twitter: "https://www.twitter.com/jyoti_mi",
 	instagram: "https://www.instagram.com/whereisjyoti",
 	github: "https://github.com/jstjyoti",
 	linkedin: "https://www.linkedin.com/in/jyotim29/",

@@ -21,18 +21,6 @@ const SocialLinks = () => {
 			</Button>
 			<Button
 				className="btn-icon-only rounded-circle ml-1"
-				color="facebook"
-				href={socialLinks.facebook}
-				target="_blank"
-				rel="noopener"
-				aria-label="Facebook"
-			>
-				<span className="btn-inner--icon">
-					<i className="fa fa-facebook-square" />
-				</span>
-			</Button>
-			<Button
-				className="btn-icon-only rounded-circle ml-1"
 				color="instagram"
 				href={socialLinks.instagram}
 				target="_blank"
