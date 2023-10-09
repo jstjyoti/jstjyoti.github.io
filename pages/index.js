@@ -21,7 +21,7 @@ export default function Home({ githubProfileData }) {
 					title: "Jyoti Mishra",
 					description:
 						"A passionate DevOps Engineer and Full Stack Web Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+					image: "https://avatars3.githubusercontent.com/jstjyoti",
 					url: "https://jstjyoti.github.io",
 					keywords: [
 						"Jyoti",
